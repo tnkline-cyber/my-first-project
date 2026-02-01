@@ -6,6 +6,14 @@
 LEARNING_LOG.md
 AI_NOTES.md
 THINKING_PROCESS.md
+*RAG*.md
+*RAG*.rtf
+TNKos*.rtf
+
+# User's Private Documents & Prototypes
+N言語.rtf
+脳理解.rtf
+ゴールデンチケット.rtf
 
 # ============================================
 # IDE & Editor Settings (Private)
@@ -25,6 +33,13 @@ THINKING_PROCESS.md
 *.key
 *.pem
 credentials.json
+
+# GitHub Token (CRITICAL - NEVER COMMIT)
+*token*.rtf
+*token*.txt
+github*.rtf
+GITHUB_TOKEN*
+.github-token
 
 # ============================================
 # OS & System Files
